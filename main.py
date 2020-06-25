@@ -2,8 +2,8 @@ import screeninfo
 import pygame
 import os
 
-import Rect
-import Functions
+from Classes import Rect
+from General import Functions
 
 
 def main():

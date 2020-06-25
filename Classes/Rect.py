@@ -1,6 +1,6 @@
 import pygame
 
-import Functions
+from General import Functions
 
 
 class Rect:
